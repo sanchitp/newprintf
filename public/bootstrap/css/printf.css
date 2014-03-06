@@ -1,0 +1,93 @@
+/*@import url(http://fonts.googleapis.com/css?family=Inconsolata);*/
+/*@import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);*/
+@import url(http://fonts.googleapis.com/css?family=Cutive+Mono);
+body {
+	margin: 0px;
+	padding: 0px;
+	line-height: 1.5em; 
+	background-color: #000;
+
+	background-position: top center;
+}
+
+.fnt{
+
+    /*font-family:'Inconsolata', sans-serif; */ 
+  /*  font-family: 'Share Tech Mono', sans-serif;*/
+  font-family: 'Cutive Mono', serif;
+
+
+	font-size: 16px;
+}
+.img-height{
+	height: 190px;
+	width:  260px;6
+}
+.bg-color{
+	background-color: #000;
+}
+.sponser{
+	border-left: solid 1px;
+	border-color: #585858;
+	height: 565px;
+	color: #fff;
+}
+.content{
+display: none;
+}
+.bttn{
+	color: #fff;
+	height: 40px;
+	width: 175px;
+}
+.undis{
+display: none;
+}
+.bottom{
+	border-bottom: solid 1px;
+	border-color: #585858;
+}
+.ul-padding{
+padding-top:15px;
+padding-bottom:15px;
+}
+.li-padding{
+padding-top:10px;
+padding-bottom:10px;
+}
+.div-padding{
+	padding-left: 100px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 50px;
+}
+.div-size{
+	height: 505px;	
+}
+.div-height{
+	height: 100px;
+}
+.undis{
+	display: none;
+}
+.div-border{
+	border-right:solid 1px;
+	border-color: #585858;
+	border-left: solid 1px;
+}
+.colr{
+	color: #fff;
+}
+p{
+	color: #3f6;
+}
+.option{
+	color: #cc3;
+}
+span{
+	color: #0099cc;
+}
+.spon-img{
+    height: 120px;
+    width: 120px;
+}
